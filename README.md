@@ -11,3 +11,5 @@ The specialization consists of 7 courses:
 - Deep Learning in Computer Vision
 - Natural Language Processing
 - Addressing Large Hadron Collider Challenges by Machine Learning
+
+At the present, there are still courses being attended, so this repository will still be updated
