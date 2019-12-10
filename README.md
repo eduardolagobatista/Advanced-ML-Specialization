@@ -1,7 +1,7 @@
 # Advanced-ML-Specialization
 Notebooks created during the attendance at the coursera specialization 
 
-It includes every notebook created during the coding activities during the attendance at the Advanced Machine Learning 
+It includes every notebook created for the coding activities during the attendance at the Advanced Machine Learning 
 Specialization at Coursera Platform.
 The specialization consists of 7 courses:
 - Introduction to Deep Learning
