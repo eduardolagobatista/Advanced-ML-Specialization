@@ -1,5 +1,7 @@
 This repository contains descriptions, notebooks, coding exercises, from online courses and experiments taken on my free time. The code on the notebooks contains comments to make it easier to understand the logic and steps behind the experiments. Not all activities were uploaded, since some didn't were more teorethical or with more simple coding. 
 
+**Note:** The notebooks are solutions for the exercises so there are parts of the code that are not my own. The original ones (from the courses themselves) were edited so to become less lengthy and more direct, since the code it contained had much explanation and comments for helping build the functions.  
+
 At the present, there are still courses being attended, so this repository will still be updated
 
 The courses from which the notebooks were written are:
